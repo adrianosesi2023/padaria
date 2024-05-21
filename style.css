@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(247, 198, 159);
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: center;
+}
+
+.introducao{
+    padding-bottom: 0px;
+    border-bottom: 2px solid rgb(255, 145, 0);
+}
+
+.fotologo{
+    width: 200px;
+}
+
+.produtos{
+    background-color: rgb(255, 145, 0);
+}
+
+.subtitulo01{
+        color: rgb(255, 136, 0);
+        font-size: larger;
+}
+
+.fotobolo{
+    width: 400px;
+    padding-bottom: 20px;
+}
+
+.sobre{
+    padding-bottom: 20px;
+}
+
+.fotopao{
+    width: 400px;
+}
+
+.fotoprodutos{
+    width: 700px;
+}
+
+.produtos{
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+h4{
+    font-size: 20px;
+}
+
+h5{
+    font-size: 20px;
+}
+
+.contato{
+    text-align: center;
+}
+
+.uls{
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.href01 {
+    display: flex;
+    justify-content: center; 
+    gap: 20px;
+    padding: 20px;
+    text-decoration: none;
+    color: black; 
+}
+
+.href01 a {
+    text-decoration: none; 
+    color: black; 
+    font-weight: bold; 
+}
+
+.href01 a:hover {
+    color: rgb(255, 145, 0); 
+}
